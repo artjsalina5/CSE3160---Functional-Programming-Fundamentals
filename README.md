@@ -2,9 +2,12 @@
 
 This repository serves as a backup of my work for this course.
 
-All work is my own. Be forewarned: [The Student Code](https://community.uconn.edu/the-student-code/the-student-code-preamble/). UConn has a fair share of cheaters that were spawned during the Zoom days of the COVID-19 lockdown.
+All work is my own. Be forewarned: [The Student Code](https://community.uconn.edu/the-student-code/the-student-code-preamble/).
+UConn has a fair share of cheaters that were spawned during the Zoom days of the COVID-19 lockdown.
+I have heard people bragging about how they cheated on AP exams and SAT exams to get to where they are.
 
-Fortunately, it turns out that this also certainly does not make you as bright as you think you are.
+Fortunately, it's easy to find their lack of faith disturbing.
+
             ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⣀⣀⣤⢤⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
             ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣴⣶⣿⣿⡿⣿⢿⣷⣽⣿⣿⣿⣷⣆⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
             ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣛⣽⣿⠿⠿⢻⣿⡟⣷⣼⣉⣿⣿⣿⣿⣟⠻⣿⣿⣟⢿⡦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -33,9 +36,11 @@ Fortunately, it turns out that this also certainly does not make you as bright a
             ⠀⠀⠀⠀⠀⠈⠙⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠉⠉⠉⠉⢉⣽⣿⣿⣄⣀⣴⣿⣿⣿⣿⣿⣿⡿⠛⠉⠀⠀⠀⠀⠀⠀
             ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠿⣿⣿⣿⣿⣿⣿⣶⣦⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
             ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠋⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
         Copyright (c) 2025 Arturo Salinas. All Rights Reserved.
 
 ## Overview
+
 ### Instructor and Class Time
 
     - **Instructor**: The one, the only Laurent Michel.
@@ -110,8 +115,9 @@ tion, and support problem solving in groups.
 ### Academic Misconduct
 
 Exams are to represent the sole effort of the student submitting the work. This precludes usage
-or adaptation of material from the internet of from peers. That explicitely forbids the use of any
-LLM. This will be discussed at length during the first lecture.
+or adaptation of material from the internet of from peers. *That explicitely forbids the use of any
+LLM.*, checkmate losers. This will be discussed at length during the first lecture.
+
 I enforce a zero-tolerance policy w.r.t. academic misconduct. Plagiarism is an extremely serious
 issue, will be aggressively pursued according to the full extent of University regulations. I strongly
 encourage students to re-familiarize with the Student Code. In addition, CSE3160 adopts the
@@ -128,9 +134,9 @@ an exam also earns an automatic ’F’ for the course.
 ### Rough syllabus
 
 This is tentative only as the list of topics gets refined (and reordered).
------------------------------------------
+---------------------------------------------------------------------
 |1. Elementary data types and variables:|
-|-----------------------------------------------------------------------------|
+|------------------------------------------------------------------------------|
 |• Immutability |
 |• numeric, Boolean, string, and token expressions; |
 |• binding and environments; |
@@ -139,6 +145,7 @@ This is tentative only as the list of topics gets refined (and reordered).
 |• data types |
 |• class types |
 |• let polymorphism |
+
 |2. Elementary control flow:|
 |------------------------------|
 |• function application;|
@@ -150,6 +157,8 @@ This is tentative only as the list of topics gets refined (and reordered).
 |• tail recursion |
 |• continuation passing style |
 
+-----------------------------------------------
+
 |3. MT1 on September 22 from 7PM to 9PM in MCHU 101 on paper |
 |------------------------------------------------------------------------------|
 | 4. Structured data:                                        |
@@ -159,14 +168,24 @@ This is tentative only as the list of topics gets refined (and reordered).
 |• binary search trees, heaps; |
 |• sorting and selection algorithms; |
 |• vectors, arrays (matrices); |
+
+--------------------------------------
+
+
 |5. MT2 on October 27 from 7PM to 9PM in MCHU 101 on paper|
 |------------------------------------------------------------------------------|
+
+------------------------
+
 | 6. Algebraic data Types |
 |------------------------------------------------------------------------------|
 | • Monoids |
 | • Functor |
 |  • Applicative |
 |• Monads (IO/State) | 
+
+-----------------------------------
+
 |7. Concurrency |
 |------------------------------------------------------------------------------|
 |• Parallel operators |  
@@ -187,4 +206,3 @@ etc.
 ```
 
 <!-- vim: set spell tw=130 ts=4 expandtab: -->
-
