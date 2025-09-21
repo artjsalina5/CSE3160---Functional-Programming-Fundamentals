@@ -1,17 +1,3 @@
-{- |
- -
-Module      : Lib
-Description : Lazy streams and Vigenère helpers (HW3)
-Copyright   : (c) Arturo Salinas-Aguayo, 2025
-This module provides:
-
-* Element-wise list ops ('muls', 'divs')
-* Infinite streams ('pows', 'facts', 'signs'), and a selector ('splice')
-* Sine series coefficients ('sint') and term stream ('tx'), plus 'mysin'
-* A simple Vigenère encoder/decoder over lowercase text ('encodeChar', 'decodeChar', 'vigenereEnc', 'vigenereDec')
-
-Conventions: lists may be infinite; functions short-circuit when either input list ends.
--}
 module Lib (
   muls,
   divs,
@@ -24,15 +10,12 @@ module Lib (
   mysin,
   flatten,
   innerProduct,
-  encodeChar,
-  decodeChar,
   dedup,
   vigenereEnc,
   vigenereDec,
 ) where
 
-import Data.Char (chr, ord)
-import Data.List (unwords, words)
+import Data.Char
 
 -- | Given a depth 2 list of lists produces a single flat list
 flatten :: [[a]] -> [a]

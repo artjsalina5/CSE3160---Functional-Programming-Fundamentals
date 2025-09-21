@@ -28,6 +28,6 @@ ballVolume r = (4 * pi * (r ** 3)) / 3
 -- as needed
 countAncestors :: (Integral p) => p -> p
 countAncestors n =
-    if n == 0
-        then 1
-        else 2 * countAncestors (n - 1)
+    if n == 0 then 1 else 2 * countAncestors (n - 1)
+
+-- vim: set expandtab ts:2 sw:2 :
